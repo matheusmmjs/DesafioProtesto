@@ -1,0 +1,14 @@
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\bin\Debug\netcoreapp2.1\DesafioProtesto.deps.json
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\bin\Debug\netcoreapp2.1\DesafioProtesto.runtimeconfig.json
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\bin\Debug\netcoreapp2.1\DesafioProtesto.runtimeconfig.dev.json
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\bin\Debug\netcoreapp2.1\DesafioProtesto.dll
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\bin\Debug\netcoreapp2.1\DesafioProtesto.pdb
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\obj\Debug\netcoreapp2.1\DesafioProtesto.csprojAssemblyReference.cache
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\obj\Debug\netcoreapp2.1\DesafioProtesto.csproj.CoreCompileInputs.cache
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\obj\Debug\netcoreapp2.1\DesafioProtesto.RazorAssemblyInfo.cache
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\obj\Debug\netcoreapp2.1\DesafioProtesto.RazorAssemblyInfo.cs
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\obj\Debug\netcoreapp2.1\DesafioProtesto.AssemblyInfoInputs.cache
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\obj\Debug\netcoreapp2.1\DesafioProtesto.AssemblyInfo.cs
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\obj\Debug\netcoreapp2.1\DesafioProtesto.RazorTargetAssemblyInfo.cache
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\obj\Debug\netcoreapp2.1\DesafioProtesto.dll
+C:\Users\msantos.NOTEBOOKMATHEUS\Desktop\Desafio\DesafioProtesto\DesafioProtesto\obj\Debug\netcoreapp2.1\DesafioProtesto.pdb
